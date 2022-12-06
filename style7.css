@@ -1,0 +1,75 @@
+body{
+	margin: auto;
+	width: 1000px;
+	line-height: 50px;
+	text-align: justify;
+	color: black;
+	font-size: 1.8em;
+	font-weight: bold;
+ }
+
+h1{
+	color: brown;
+	font-size: 150px;
+	font-style: italic;
+	text-align: center;
+}
+
+h2,h3,h4 {
+  border-bottom: 5px solid red;
+  color: orange;
+}
+
+.a1{
+	margin-left: 180px;
+	margin-right: 180px;
+	border: 5px solid blue;
+	width: 600px;
+	height: 300px;
+}
+
+.a2{
+	width : 200px;
+    height : 200px;
+	margin: 30px 30px 30px 30px;
+	padding: 10px 10px 10px 10px;
+	float : left;
+	border: 10px dashed blue;
+	border-radius : 250px;
+
+}
+
+
+table{
+	border: 5px solid brown;
+
+}
+
+.a6{
+	text-align: center;
+	color:orange;
+	font-style: italic;	
+}
+
+td{
+	text-align: center;
+}
+
+.a7{
+	color: blue;
+	font-style: italic;
+
+}
+
+.a8{
+	color: blue;
+	font-style: italic;
+	border-bottom: 5px dashed blue;
+}
+
+a{
+	color: red;
+	font-style: italic;
+	font-weight: bold;
+	border-bottom: 5px solid red;
+}

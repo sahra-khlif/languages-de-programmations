@@ -1,0 +1,86 @@
+body{
+	margin: auto;
+	width: 1000px;
+	line-height: 50px;
+	text-align: justify;
+	color: black;
+	font-size: 1.8em;
+	font-weight: bold;
+}
+
+h1{
+	color: green;
+	font-size: 150px;
+	font-style: italic;
+	text-decoration: brown wavy underline;
+	text-align: center;
+}
+
+h2,h3,h4,h5{
+	color: crimson;
+	font-variant : small-caps;
+	font-size: 50px
+}
+
+.a1{
+	text-decoration: underline;
+	color: red;
+
+}
+
+.a2{
+	margin-left: 180px;
+	margin-right: 180px;
+	border: 5px solid red;
+	width: 600px;
+	height: 300px;
+}
+
+.a3{
+	width : 200px;
+    height : 200px;
+	margin: 0px 50px 50px 50px;
+	padding: 0px 10px 10px 10px;
+	float : right;
+	border: 10px dashed yellow;
+	border-radius : 200px;
+}
+
+.a4{
+	width : 200px;
+    height : 200px;
+	margin: 0px 50px 50px 50px;
+	padding: 0px 10px 10px 10px;
+	float : right;
+	border: 10px dashed cyan;
+	border-radius : 200px;
+	float: left;
+}
+
+
+a {
+text-align: center;
+display: block;
+background: #cce5ff;
+margin: 5px;
+padding: 5px;
+color: black;
+text-decoration: none;
+}
+a:hover {
+background-color: #ee621f;
+color: white;
+}
+
+
+.a5{
+display: inline-block;
+padding-left: 5px;
+padding-right: 5px;
+}
+
+video{
+	border: 5px solid blue;
+	margin-right: 100px;
+	margin-left: 100px;
+}

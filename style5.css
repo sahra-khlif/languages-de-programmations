@@ -1,0 +1,93 @@
+
+body{
+	margin: auto;
+	width: 1000px;
+	line-height: 50px;
+	text-align: justify;
+	color: black;
+	font-size: 1.8em;
+	font-weight: bold;
+ }
+
+#example1 {
+  border: 10px dotted black;
+  padding: 15px;
+  background: sandybrown;
+  background-clip: border-box;  
+}
+
+#example2 {
+  border: 10px dotted black;
+  padding: 15px;
+  background: sandybrown;
+  background-clip: padding-box;
+}
+
+#example3 {
+  border: 10px dotted black;
+  padding: 15px;
+  background: sandybrown;
+  background-clip: content-box;
+}
+
+h1{
+	color: brown;
+	font-size: 150px;
+	font-style: italic;
+	text-align: center;
+}
+
+h2,h3,h4 {
+  border-bottom: 5px solid red;
+  color: orange;
+}
+
+.a1{
+	margin-left: 180px;
+	margin-right: 180px;
+	border: 5px solid brown;
+	width: 600px;
+	height: 300px;
+}
+
+.a2{
+	width : 350px;
+    height : 350px;
+	margin: 30px 30px 30px 30px;
+	padding: 10px 10px 10px 10px;
+	float : left;
+	border: 10px dashed brown;
+	border-radius : 200px;
+
+}
+
+.a3{
+	width : 360px;
+    height : 350px;
+	margin: 30px 30px 30px 30px;
+	padding: 10px 10px 10px 10px;
+	float : left;
+	border: 10px  brown double;
+
+}
+
+a {
+text-align: center;
+display: block;
+background: #cce5ff;
+margin: 5px;
+padding: 5px;
+color: black;
+text-decoration: none;
+}
+a:hover {
+background-color: #ee621f;
+color: white;
+}
+
+
+.a4{
+display: inline-block;
+padding-left: 30px;
+padding-right: 30px;
+}
